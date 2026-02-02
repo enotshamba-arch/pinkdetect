@@ -1,1 +1,2 @@
-# pinkdetect
+streamlit
+pandas
